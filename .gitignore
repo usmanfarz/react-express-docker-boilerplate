@@ -1,5 +1,5 @@
-# Dependency directorycasd
-node_modules
+# Dependency directory
+node_modules as
 .DS_Store
 
 # IntelliJ
